@@ -1,5 +1,5 @@
- # README
-## Social Analytics & Text Analysis Projects
+
+# Social Analytics & Text Analysis Projects
 ---
 
 ## Table of contents
