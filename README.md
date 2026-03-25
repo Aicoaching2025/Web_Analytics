@@ -1,9 +1,5 @@
  # README
 ## Social Analytics & Text Analysis Projects
-**Web Analytics · Network Analysis · Corpus Linguistics · Zipf's Law**
-
-> DATA 620 | CUNY School of Professional Studies | Spring 2025
-
 ---
 
 ## Table of contents
